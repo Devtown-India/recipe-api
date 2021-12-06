@@ -8,7 +8,7 @@
         "build": "babel src --out-dir dist"
     },
     "keywords": [],
-    "author": "",
+    "author": "Kartik Gupta",
     "license": "ISC",
     "dependencies": {
         "cors": "^2.8.5",
