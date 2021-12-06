@@ -17,7 +17,7 @@ connectDB()
 app.use('/api/recipe', recipeRoutes)
 
 app.get('/', (req, res) => {
-    res.send(`Recipe APP server listening at PORT ${port} `)
+    res.send(`Recipe APP server listening at PORT : ${port} `)
 })
 
 
